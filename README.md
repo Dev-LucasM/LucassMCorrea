@@ -14,6 +14,6 @@ Entre em contato comigo:
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-logo"/>
 </a>
 
-[![Lucas stats](https://github-readme-stats.vercel.app/api?username=LucassMCorrea)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucas stats](https://github-readme-stats.vercel.app/api?username=Dev-LucasM)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucassMCorrea)](https://github.com/anuraghazra/github-readme-stats)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-LucasM)](https://github.com/anuraghazra/github-readme-stats)

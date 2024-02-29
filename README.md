@@ -10,10 +10,17 @@
   </em>
 </p>
 
-- 🌱 Estudando e aprimorando minhas habilidades em React, React Native, Next.JS, Node.js e Banco de dados.
+- 🌱 Estudando e aprimorando minhas habilidades em React, React Native, NextJS, NodeJS e Banco de dados.
 - 🚀 Estudante do DevClub, Rocketseat e Luiz Otávio Miranda.
 - 📧 Meu email: lucasmauriciofc@gmail.com.
 
+### 📊 Metas de 2024:
+
+- 📚 Continuar buscando conhecimento das pessoas e materiais de estudo.
+
+- ⭐ Melhorar e expandir minhas habilidades de liderança.
+
+- 💙 Conhecer pessoas e lugares incríveis este ano e fazer parte de sua história.
 
 ### ⚡ Tecnologias:
 

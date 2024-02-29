@@ -6,12 +6,12 @@
 
 <p>
   <em>
-    Tenho 20 anos, sou de São Paulo e trabalho atualmente como Desenvolvedor Front End na DigitalSys Tecnologia.
+    Tenho 21 anos, sou de São Paulo e trabalho atualmente como Desenvolvedor Front End na DigitalSys Tecnologia.
   </em>
 </p>
 
-- 🌱 Estudando e aprimorando minhas habilidades em Next.JS, Node.js e Banco de dados.
-- 🚀 Estudante do Devclub, Rocketseat e Luiz Otávio Miranda.
+- 🌱 Estudando e aprimorando minhas habilidades em React, React Native, Next.JS, Node.js e Banco de dados.
+- 🚀 Estudante do DevClub, Rocketseat e Luiz Otávio Miranda.
 - 📧 Meu email: lucasmauriciofc@gmail.com.
 
 
@@ -21,7 +21,7 @@
 
 - Front End
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,nextjs,styledcomponents,tailwind,materialui,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,nextjs,redux,styledcomponents,tailwind,materialui,vue)](https://skillicons.dev)
 
 - Back End
 
@@ -35,7 +35,7 @@
 
 | My Statistics                                                                                                                 | Top Languages
 | ------------------------------------------------------------------------------------------------------------------------------| ------------------------------------------------------------ |
-![Lucas Mauricio GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-LucasM&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-LucasM&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact) |
+![Lucas Mauricio GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasMauricio1&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMauricio1&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact) |
 
 💬 Quer entrar em contato?
 

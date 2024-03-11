@@ -6,7 +6,7 @@
 
 <p>
   <em>
-    Tenho 21 anos, sou de São Paulo e trabalho atualmente como Desenvolvedor Front End na DigitalSys Tecnologia.
+    Tenho 21 anos, sou de São Paulo e trabalho atualmente como Desenvolvedor Front End.
   </em>
 </p>
 

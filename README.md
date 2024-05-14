@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Lucas Maurício! <br> Seja bem vindo a minha página :)</h1>
 
-<p align="center">Desenvolvedor Front End</p>
+<p align="center">Desenvolvedor Full Stack</p>
 
 ### 🎈 Sobre mim:
 
